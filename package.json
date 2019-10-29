@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MarzP/06Lab#readme",
   "dependencies": {
+    "ejs": "^2.7.1",
     "express": "^4.17.1"
   }
 }
